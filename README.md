@@ -1,12 +1,14 @@
 # About Me 
 
 I completed a Master's degree in [Computer Science and Engineering](https://corsi.unibo.it/2cycle/ComputerScienceEngineering) at the University of Bologna ([UniBo](https://www.unibo.it/en/)).
-I am deeply passionate about computer science, always driven by curiosity to explore new technologies and improve my skills.
-My main interests lie in _Software Engineering_ and _Intelligent Systems_, and I'd like to become an experienced engineer in such fields.
+I am deeply passionate about computer science, always driven by curiosity to learn something new and improve my skills.
+My main interests lie in _Software Engineering_ and _Intelligent Systems_, and I'd like to become an experienced researcher and engineer in such fields.
 
-Now, I'm currently working as a Research Fellow at the University of Bologna, where I'm conducting research on methodologies to ensure fairness in AI systems (fair-by-design).
+Currently, I am a PhD Student in [Data Science and Computation](https://phd.unibo.it/dsc/en) at the University of Bologna, where I'm conducting research on methodologies for more autonomous and scalable Neuro-Symbolic and Agentic AI systems.
 
 ## Relevant Projects  
+
+-   **[AGE-ML](https://github.com/Mala1180/age-ml)**, a framework for automatic generation and execution of end-to-end machine learning pipelines from explicit, human-readable specifications.
 
 -   **[Satify](https://github.com/Mala1180/PPS-22-satify)**, a pure functional _SAT solver_ written in Scala 3.
 
@@ -23,7 +25,7 @@ Now, I'm currently working as a Research Fellow at the University of Bologna, wh
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Mala1180&theme=tokyonight&hide_border=false&count_private=true)<br/>
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Mala1180&theme=tokyonight&hide_border=false)<br/>
+![Contributions](https://streak-stats.demolab.com/?user=Mala1180&theme=tokyonight&hide_border=false)<br/>
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mala1180&theme=tokyonight&hide_border=false&count_private=true&layout=compact)<br/>
 
 </div>
